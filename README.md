@@ -1,2 +1,0 @@
-# my-tasks
-Demo project
