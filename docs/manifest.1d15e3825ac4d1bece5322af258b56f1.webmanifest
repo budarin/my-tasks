@@ -3,7 +3,7 @@
 	"version": "1.0.0",
     "name": "Мои Задачи",
     "short_name": "Мои Задачи",
-    "start_url": "/my-tasks/?pwa=1",
+    "start_url": "C:/Program Files/Git/my-tasks/?pwa=1",
     "lang": "ru",
     "theme_color": "#bfdbfe",
     "background_color": "#dbeafe",

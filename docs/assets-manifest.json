@@ -3,18 +3,18 @@
   "android-chrome-512x512.png": "android-chrome-512x512.558e975c145ffb2a28fd.png",
   "android-chrome-maskable-192x192.png": "android-chrome-maskable-192x192.126708023a549b771f76.png",
   "android-chrome-maskable-512x512.png": "android-chrome-maskable-512x512.d40a692f812ed7f5e7e3.png",
-  "app.js": "app.fd8d6b955826926370c6.js",
+  "app.js": "app.fe287d40ee156b97764f.js",
   "apple-touch-icon.png": "apple-touch-icon.7cb6aa9a5fc2e73f0df5.png",
   "budarin.js": "budarin.4a1954bad283653e8db0.js",
   "entrypoints": {
     "main": {
       "assets": {
         "js": [
-          "runtime.1c4541813cc907cbfcaa.js",
+          "runtime.252713c7f43a1d4f0aa5.js",
           "budarin.4a1954bad283653e8db0.js",
           "npms.03b680477565bc10ec71.js",
           "react.072e730091aa92f00ee4.js",
-          "main.1e716627d1be046c0a00.js"
+          "main.057930f238ca33d43ccd.js"
         ]
       }
     }
@@ -22,12 +22,12 @@
   "error.mp3": "error.8ad17092b67f41ed6f08.mp3",
   "favicon-32x32.png": "favicon-32x32.88ac8115acd8f90a85e8.png",
   "favicon.ico": "favicon.31159ba4d345a313888e.ico",
-  "main.js": "main.1e716627d1be046c0a00.js",
+  "main.js": "main.057930f238ca33d43ccd.js",
   "npms.03b680477565bc10ec71.js.LICENSE.txt": "npms.03b680477565bc10ec71.js.LICENSE.txt",
   "npms.js": "npms.03b680477565bc10ec71.js",
   "react.072e730091aa92f00ee4.js.LICENSE.txt": "react.072e730091aa92f00ee4.js.LICENSE.txt",
   "react.js": "react.072e730091aa92f00ee4.js",
   "roboto-regular-webfont.7c365dca831ccd4122ac.woff2": "roboto-regular-webfont.7c365dca831ccd4122ac.woff2",
-  "runtime.js": "runtime.1c4541813cc907cbfcaa.js",
+  "runtime.js": "runtime.252713c7f43a1d4f0aa5.js",
   "todo.svg": "todo.cd3261e56180c2c0e031.svg"
 }
