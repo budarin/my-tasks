@@ -3,14 +3,14 @@
   "android-chrome-512x512.png": "android-chrome-512x512.558e975c145ffb2a28fd.png",
   "android-chrome-maskable-192x192.png": "android-chrome-maskable-192x192.126708023a549b771f76.png",
   "android-chrome-maskable-512x512.png": "android-chrome-maskable-512x512.d40a692f812ed7f5e7e3.png",
-  "app.js": "app.fe287d40ee156b97764f.js",
+  "app.js": "app.49de73a3073073597bcf.js",
   "apple-touch-icon.png": "apple-touch-icon.7cb6aa9a5fc2e73f0df5.png",
   "budarin.js": "budarin.4a1954bad283653e8db0.js",
   "entrypoints": {
     "main": {
       "assets": {
         "js": [
-          "runtime.252713c7f43a1d4f0aa5.js",
+          "runtime.4d59cde82ded8762b0ca.js",
           "budarin.4a1954bad283653e8db0.js",
           "npms.03b680477565bc10ec71.js",
           "react.072e730091aa92f00ee4.js",
@@ -28,6 +28,6 @@
   "react.072e730091aa92f00ee4.js.LICENSE.txt": "react.072e730091aa92f00ee4.js.LICENSE.txt",
   "react.js": "react.072e730091aa92f00ee4.js",
   "roboto-regular-webfont.7c365dca831ccd4122ac.woff2": "roboto-regular-webfont.7c365dca831ccd4122ac.woff2",
-  "runtime.js": "runtime.252713c7f43a1d4f0aa5.js",
+  "runtime.js": "runtime.4d59cde82ded8762b0ca.js",
   "todo.svg": "todo.cd3261e56180c2c0e031.svg"
 }
