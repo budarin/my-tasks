@@ -5,13 +5,8 @@
     "short_name": "Мои Задачи",
     "start_url": "/my-tasks/?pwa=1",
     "lang": "ru",
-<<<<<<<< HEAD:docs/manifest.8f896f70628be2531c10fd1f62f7d1aa.webmanifest
     "theme_color": "#dbeafe",
     "background_color": "#eff6ff",
-========
-    "theme_color": "#f8fafc",
-    "background_color": "#ffffff",
->>>>>>>> 7adea6d4902e9a6e9f3bfbbe1906e1ed96e30e83:docs/manifest.01e1273301a796af37d2d81cb06ba6dd.webmanifest
     "display": "standalone",
     "description": "Приложение для управления задачами на каждый день.",
     "categories": ["education"],
