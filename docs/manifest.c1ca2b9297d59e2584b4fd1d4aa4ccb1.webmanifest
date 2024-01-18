@@ -34,7 +34,7 @@
             "purpose": "maskable"
         },
         {
-            "src": "./icon.cd3261e56180c2c0e031.svg",
+            "src": "icon.cd3261e56180c2c0e031.svg",
             "sizes": "1024x1024",
             "type": "image/svg+xml",
             "purpose": "any"
@@ -44,27 +44,42 @@
         {
             "name": "Календарь",
             "url": "/my-tasks/",
-            "description": "Работа с задачами в рамках календаря"
+            "description": "Работа с задачами в рамках календаря",
+            "icons": [
+                { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
+            ]
         },
         {
             "name": "Черновики",
             "url": "/my-tasks/?key=inbox&type=filter&title=Черновики",
-            "description": "Список задач, которые еще не распределены по календарю"
+            "description": "Список задач, которые еще не распределены по календарю",
+            "icons": [
+                { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
+            ]
         },
         {
             "name": "Просроченные задачи",
             "url": "/my-tasks/?key=expired&type=filter&title=Просроченные",
-            "description": "Список задач, у которых истек срок исполнения"
+            "description": "Список задач, у которых истек срок исполнения",
+            "icons": [
+                { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
+            ]
         },
         {
             "name": "Завершенные задачи",
             "url": "/my-tasks/?key=completed&type=filter&title=Завершенные",
-            "description": "Список задач, которые успешно завершены"
+            "description": "Список задач, которые успешно завершены",
+            "icons": [
+                { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
+            ]
         },
         {
-            "name": "Мусорная корзина",
+            "name": "Корзина",
             "url": "/my-tasks/?key=trash&type=filter&title=Корзина",
-            "description": "Список задач, которые помещены в корзину для удаления"
+            "description": "Список задач, которые помещены в корзину для удаления",
+            "icons": [
+                { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
+            ]
         }
     ]
 }
