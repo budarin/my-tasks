@@ -39,5 +39,32 @@
             "type": "image/svg+xml",
             "purpose": "any"
         }
+    ],
+    "shortcuts": [
+        {
+            "name": "Календарь",
+            "url": "/",
+            "description": "Работа с задачами в рамках календаря"
+        },
+        {
+            "name": "Черновики",
+            "url": "/?key=inbox&type=filter&title=Черновики",
+            "description": "Список задач, которые еще не распределены по календарю"
+        },
+        {
+            "name": "Просроченные задачи",
+            "url": "/?key=expired&type=filter&title=Просроченные",
+            "description": "Список задач, у которых истек срок исполнения"
+        },
+        {
+            "name": "Завершенные задачи",
+            "url": "/?key=completed&type=filter&title=Завершенные",
+            "description": "Список задач, которые успешно завершены"
+        },
+        {
+            "name": "Мусорная корзина",
+            "url": "/?key=trash&type=filter&title=Корзина",
+            "description": "Список задач, которые помещены в корзину для удаления"
+        }
     ]
 }
