@@ -43,7 +43,7 @@
     "shortcuts": [
         {
             "name": "Календарь",
-            "url": "/my-tasks/",
+            "url": "./",
             "description": "Работа с задачами в рамках календаря",
             "icons": [
                 { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
@@ -51,7 +51,7 @@
         },
         {
             "name": "Черновики",
-            "url": "/my-tasks/?key=inbox&type=filter&title=Черновики",
+            "url": "./?key=inbox&type=filter&title=Черновики",
             "description": "Список задач, которые еще не распределены по календарю",
             "icons": [
                 { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
@@ -59,7 +59,7 @@
         },
         {
             "name": "Просроченные задачи",
-            "url": "/my-tasks/?key=expired&type=filter&title=Просроченные",
+            "url": "./?key=expired&type=filter&title=Просроченные",
             "description": "Список задач, у которых истек срок исполнения",
             "icons": [
                 { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
@@ -67,7 +67,7 @@
         },
         {
             "name": "Завершенные задачи",
-            "url": "/my-tasks/?key=completed&type=filter&title=Завершенные",
+            "url": "./?key=completed&type=filter&title=Завершенные",
             "description": "Список задач, которые успешно завершены",
             "icons": [
                 { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
@@ -75,7 +75,7 @@
         },
         {
             "name": "Корзина",
-            "url": "/my-tasks/?key=trash&type=filter&title=Корзина",
+            "url": "./?key=trash&type=filter&title=Корзина",
             "description": "Список задач, которые помещены в корзину для удаления",
             "icons": [
                 { "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }
