@@ -42,12 +42,6 @@
     ],
     "shortcuts": [
         {
-            "name": "Календарь",
-            "url": "./",
-            "description": "Работа с задачами в рамках календаря",
-            "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
-        },
-        {
             "name": "Черновики",
             "url": "./?key=inbox&type=filter&title=Черновики",
             "description": "Список задач, которые еще не распределены по календарю",
