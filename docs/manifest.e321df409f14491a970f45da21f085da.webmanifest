@@ -4,12 +4,12 @@
     "name": "Мои Задачи",
     "short_name": "Мои Задачи",
     "start_url": "./?pwa=1",
-    "lang": "ru",
+    "lang": "ru-RU",
     "theme_color": "#bfdbfe",
     "background_color": "#dbeafe",
     "display": "standalone",
     "description": "Приложение для управления задачами на каждый день.",
-    "categories": ["education"],
+    "categories": ["events", "personalization", "development"],
     "icons": [
         {
             "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png",
