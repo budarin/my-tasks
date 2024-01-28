@@ -6,7 +6,7 @@
     "start_url": "./?pwa=1",
     "lang": "ru-RU",
     "theme_color": "#bfdbfe",
-    "background_color": "#eff6ff",
+    "background_color": "#dbeafe",
     "display": "standalone",
     "description": "Приложение для управления задачами на каждый день.",
     "categories": ["events", "personalization", "development"],
