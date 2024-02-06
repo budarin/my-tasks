@@ -54,7 +54,7 @@
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
         },
         {
-            "name": "Завершенные задачи",
+            "name": "Завершённые задачи",
             "url": "./?key=completed&type=filter",
             "description": "Список задач, которые успешно завершены",
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
