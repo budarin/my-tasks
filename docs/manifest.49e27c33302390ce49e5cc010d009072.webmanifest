@@ -43,25 +43,25 @@
     "shortcuts": [
         {
             "name": "Черновики",
-            "url": "./?key=inbox&type=filter",
+            "url": "./?type=filter&key=inbox",
             "description": "Список задач, которые еще не распределены по календарю",
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
         },
         {
             "name": "Просроченные задачи",
-            "url": "./?key=expired&type=filter",
+            "url": "./?type=filter&key=expired",
             "description": "Список задач, у которых истек срок исполнения",
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
         },
         {
             "name": "Завершённые задачи",
-            "url": "./?key=completed&type=filter",
+            "url": "./?type=filter&key=completed",
             "description": "Список задач, которые успешно завершены",
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
         },
         {
             "name": "Корзина",
-            "url": "./?key=trash&type=filter",
+            "url": "./?type=filter&key=trash",
             "description": "Список задач, которые помещены в корзину для удаления",
             "icons": [{ "src": "android-chrome-192x192.1cfc30bbcbf340fc741d.png", "sizes": "192x192" }]
         }
