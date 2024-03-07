@@ -10,6 +10,6 @@
 
 <div style="display:flex">
 <img src="https://github.com/budarin/my-tasks/assets/8055157/b41fd049-4fc0-4286-af83-0c7fb15d9be1" alt="drawing" width="360"/>
-<span style="width:50">&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://github.com/budarin/my-tasks/assets/8055157/31f36284-fb61-4bab-a25b-b32ae59ed639" alt="drawing" width="360"/>
 </div>
