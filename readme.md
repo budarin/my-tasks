@@ -8,4 +8,4 @@
 
 Мобильное представление
 
-<img src="https://github.com/budarin/my-tasks/assets/8055157/7788173d-aac0-4f63-b5f1-2c426af076cc" alt="drawing" width="360"/>
+<img src="https://github.com/budarin/my-tasks/assets/8055157/b41fd049-4fc0-4286-af83-0c7fb15d9be1" alt="drawing" width="360"/>
