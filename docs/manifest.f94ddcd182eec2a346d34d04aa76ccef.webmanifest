@@ -40,6 +40,29 @@
             "purpose": "any"
         }
     ],
+    "screenshots": [
+        {
+            "src": "install-wide.png",
+            "sizes": "2784x1993",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Мои Задачи на десктопе"
+        },
+        {
+            "src": "install-narrow.png",
+            "sizes": "668x1280",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Мои Задачи в вашем телефоне"
+        },
+        {
+            "src": "screenshot2.webp",
+            "sizes": "668x1280",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Мои Задачи в вашем телефоне"
+        }
+    ],
     "shortcuts": [
         {
             "name": "Черновики",
