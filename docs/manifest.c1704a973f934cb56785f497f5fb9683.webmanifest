@@ -42,20 +42,20 @@
     ],
     "screenshots": [
         {
-            "src": "install-wide.png",
+            "src": "install-wide.6c346932ecfd0d529b06.png",
             "sizes": "2784x1993",
             "type": "image/png",
             "form_factor": "wide",
             "label": "Мои Задачи на десктопе"
         },
         {
-            "src": "install-narrow1.png",
+            "src": "install-narrow1.5fd4be916f60a603a2f2.png",
             "sizes": "570x1016",
             "type": "image/png",
             "label": "Мои Задачи в вашем телефоне"
         },
         {
-            "src": "install-narrow2.png",
+            "src": "install-narrow2.c310a9844a7be437477c.png",
             "sizes": "567x1017",
             "type": "image/png",
             "label": "Мои Задачи в вашем телефоне."
