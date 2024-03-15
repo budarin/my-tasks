@@ -17,4 +17,4 @@
 
 <br />
 <br />
-Запускайте приложение по ссылке <a href="budarin.github.io/my-tasks/" target="_blank">budarin.github.io/my-tasks/</a>
+Запускайте приложение по ссылке <a href="https://budarin.github.io/my-tasks/" target="_blank">https://budarin.github.io/my-tasks/</a>
