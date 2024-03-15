@@ -14,3 +14,5 @@
 <span>&nbsp;&nbsp;&nbsp;</span>
 <img src="https://github.com/budarin/my-tasks/assets/8055157/31f36284-fb61-4bab-a25b-b32ae59ed639" alt="drawing" width="360"/>
 </div>
+
+Запускайте приложение по ссылке [budarin.github.io/my-tasks/](budarin.github.io/my-tasks/)
