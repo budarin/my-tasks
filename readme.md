@@ -6,7 +6,7 @@
 
 ![image](https://github.com/budarin/my-tasks/assets/8055157/1ce3222a-499d-4e8a-b60c-57a58cca2592)
 
-Мобильное представление
+Приложение выглядит и работает как обыкновенное мобильное представление с использованием жестов
 
 <div style="display:flex">
 <img src="https://github.com/budarin/my-tasks/assets/8055157/b41fd049-4fc0-4286-af83-0c7fb15d9be1" alt="drawing" width="360"/>
