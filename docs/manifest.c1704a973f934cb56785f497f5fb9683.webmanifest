@@ -1,7 +1,7 @@
 {
     "id": "my-tasks",
 	"version": "1.0.0",
-    "name": "Приложение \"Мои Задачи\"",
+    "name": "Мои Задачи",
     "short_name": "Мои Задачи",
     "start_url": "./?pwa=1",
     "lang": "ru-RU",
