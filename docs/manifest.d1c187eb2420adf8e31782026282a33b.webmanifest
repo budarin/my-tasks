@@ -1,7 +1,7 @@
 {
     "id": "my-tasks",
 	"version": "1.0.0",
-    "name": "Мои Задачи AI+",
+    "name": "Мои Задачи",
     "short_name": "Мои Задачи",
     "start_url": "./",
     "lang": "ru-RU",
